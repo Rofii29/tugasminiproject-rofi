@@ -1,0 +1,22 @@
+{
+    "nama_toko": "Toko Buku ABC",
+    "pengarang": "John Doe",
+    "alamat": "Jl. Contoh No. 123",
+    "koleksi_buku": [
+        {
+            "judul": "Buku Satu",
+            "tahun_terbit": 2020,
+            "jumlah_halaman": 200
+        },
+        {
+            "judul": "Buku Dua",
+            "tahun_terbit": 2018,
+            "jumlah_halaman": 150
+        },
+        {
+            "judul": "Buku Tiga",
+            "tahun_terbit": 2021,
+            "jumlah_halaman": 300
+        }
+    ]
+}
